@@ -1,0 +1,818 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+    }
+    
+.group-child {
+    position: absolute;
+    top: -0.5px;
+    left: -0.5px;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+    width: 1513px;
+    height: 1px;
+}
+.copyright-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 19px;
+    height: 18px;
+    object-fit: cover;
+}
+.ampera {
+    position: absolute;
+    top: 2px;
+    left: 22px;
+}
+.copyright-parent {
+    position: absolute;
+    top: 115px;
+    left: 702px;
+    width: 103px;
+    height: 18px;
+}
+.instagram-circle-icon {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+.facebook-icon {
+    position: absolute;
+    top: 3px;
+    left: 62px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+.twitter-circled-icon {
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.whatsapp-icon {
+    position: absolute;
+    top: 3px;
+    left: 191px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+.instagram-circle-parent {
+    position: absolute;
+    top: 44px;
+    left: 635px;
+    width: 241px;
+    height: 55px;
+}
+.line-parent {
+    position: absolute;
+    top: 2192px;
+    left: 0px;
+    width: 1512px;
+    height: 133px;
+    font-size: 12px;
+}
+.macbook-pro-14-3-child {
+    position: absolute;
+    top: 109px;
+    left: 304px;
+    background-color: rgba(217, 217, 217, 0.7);
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+    box-sizing: border-box;
+    width: 903px;
+    height: 2083px;
+}
+.macbook-pro-14-3-item {
+    position: absolute;
+    top: 150px;
+    left: 363px;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 294px;
+    height: 46px;
+}
+.recomendandadas {
+    position: absolute;
+    top: 173px;
+    left: 388px;
+    color: #000;
+}
+.ordenar-por {
+    position: absolute;
+    top: 156px;
+    left: 388px;
+    font-weight: 900;
+    color: #000e42;
+}
+.macbook-pro-14-3-inner {
+    position: absolute;
+    top: 178px;
+    left: 636px;
+    max-height: 100%;
+    width: 14.7px;
+    object-fit: contain;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #000e42;
+    border: 1px solid #000e42;
+    box-sizing: border-box;
+    width: 789px;
+    height: 59px;
+}
+.group-inner {
+    position: absolute;
+    top: 15px;
+    left: 643.26px;
+    border-radius: 22px;
+    background-color: #215fff;
+    width: 110.6px;
+    height: 28px;
+}
+.faa-login {
+    position: absolute;
+    top: 20px;
+    left: 661.35px;
+    display: inline-block;
+    width: 80.4px;
+    height: 20px;
+    text-shadow: 1px 0 0 rgba(0, 0, 0, 0.1), 0 1px 0 rgba(0, 0, 0, 0.1), -1px 0 0 rgba(0, 0, 0, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
+.faa-login1 {
+    position: absolute;
+    top: 19px;
+    left: 70.36px;
+    font-size: 16px;
+    font-weight: 900;
+    display: inline-block;
+    width: 327.7px;
+    height: 20px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 12px;
+    left: 25.13px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 32.2px;
+    height: 32px;
+}
+.vector-icon {
+    position: absolute;
+    height: 35.59%;
+    width: 2.93%;
+    top: 30.51%;
+    right: 93.12%;
+    bottom: 33.9%;
+    left: 3.95%;
+    border-radius: 22px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 217px;
+    left: 363px;
+    width: 789px;
+    height: 59px;
+    font-size: 15px;
+    color: #fff;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0.17px;
+    border-radius: 22px;
+    background-color: rgba(248, 248, 248, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    width: 788.7px;
+    height: 261.4px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 22px;
+    background-color: #215fff;
+    width: 191.6px;
+    height: 44.9px;
+}
+.fazer-solicitao {
+    position: absolute;
+    top: 12.97px;
+    left: 31.11px;
+    display: inline-block;
+    width: 129.4px;
+    height: 19px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 191.6px;
+    height: 44.9px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 199px;
+    left: 579px;
+    width: 191.6px;
+    height: 44.9px;
+    color: #fff;
+}
+.angloni-supermercados {
+    position: absolute;
+    top: 26.94px;
+    left: 278.11px;
+    font-weight: 600;
+    display: inline-block;
+    width: 196.7px;
+    height: 19px;
+}
+.cricima-santa-catarina {
+    position: absolute;
+    top: 48.89px;
+    left: 278.11px;
+    font-size: 12px;
+    display: inline-block;
+    width: 141.5px;
+    height: 15px;
+}
+.douglaspiccolo-supercenterange-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px 0px 10px 0px;
+    width: 253.9px;
+    height: 261.4px;
+    object-fit: cover;
+}
+.lorem-ipsum-is-simply {
+    position: absolute;
+    top: 94.8px;
+    left: 277.11px;
+    color: #3d3d3d;
+    display: inline-block;
+    width: 232.8px;
+    height: 112.8px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 788.8px;
+    height: 261.4px;
+}
+.group-child2 {
+    position: absolute;
+    top: 0.45px;
+    left: 0px;
+    border-radius: 22px;
+    background-color: rgba(248, 248, 248, 0.2);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 789px;
+    height: 262px;
+}
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 22px;
+    background-color: #215fff;
+    width: 191px;
+    height: 45px;
+}
+.fazer-solicitao1 {
+    position: absolute;
+    top: 13px;
+    left: 31px;
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 198px;
+    left: 580px;
+    width: 191px;
+    height: 45px;
+    color: #fff;
+}
+.giassi-supermercados {
+    position: absolute;
+    top: 27px;
+    left: 277px;
+    font-weight: 600;
+}
+.cricima-santa-catarina1 {
+    position: absolute;
+    top: 49px;
+    left: 277px;
+    font-size: 12px;
+}
+.lorem-ipsum-is-simply1 {
+    position: absolute;
+    top: 95px;
+    left: 276px;
+    color: #3d3d3d;
+    display: inline-block;
+    width: 232px;
+    height: 113px;
+}
+.n-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px 0px 10px 0px;
+    width: 253px;
+    height: 262px;
+    object-fit: cover;
+}
+.group-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 789px;
+    height: 262.4px;
+}
+.group-frame {
+    position: absolute;
+    top: 303.55px;
+    left: 0px;
+    width: 789px;
+    height: 262.4px;
+}
+.group-child4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 22px;
+    background-color: rgba(248, 248, 248, 0.2);
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 789px;
+    height: 262px;
+}
+.rectangle-parent3 {
+    position: absolute;
+    top: 197.55px;
+    left: 580px;
+    width: 191px;
+    height: 45px;
+    color: #fff;
+}
+.bistek-supermercados {
+    position: absolute;
+    top: 26.55px;
+    left: 277px;
+    font-weight: 600;
+}
+.cricima-santa-catarina2 {
+    position: absolute;
+    top: 90.55px;
+    left: 279px;
+    font-size: 12px;
+    display: none;
+}
+.lorem-ipsum-is-simply2 {
+    position: absolute;
+    top: 94.55px;
+    left: 276px;
+    color: #3d3d3d;
+    display: inline-block;
+    width: 232px;
+    height: 113px;
+}
+.rectangle-parent2 {
+    position: absolute;
+    top: 0.45px;
+    left: 0px;
+    width: 789px;
+    height: 262px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 923.55px;
+    left: 0px;
+    width: 789px;
+    height: 262.4px;
+}
+.cricima-santa-catarina3 {
+    position: absolute;
+    top: 48.55px;
+    left: 277px;
+    font-size: 12px;
+}
+.group-parent2 {
+    position: absolute;
+    top: 613.55px;
+    left: 0px;
+    width: 789px;
+    height: 262.4px;
+}
+.group-parent3 {
+    position: absolute;
+    top: 1233.55px;
+    left: 0px;
+    width: 789px;
+    height: 262.4px;
+}
+.group-parent4 {
+    position: absolute;
+    top: 1543.55px;
+    left: 0px;
+    width: 789px;
+    height: 262.4px;
+}
+.group-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 789px;
+    height: 1806px;
+    font-size: 16px;
+}
+.vuesaxlinearnote-text-icon {
+    position: absolute;
+    height: 100%;
+    width: 15.89%;
+    top: 0%;
+    right: 84.11%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.entrega-semanal {
+    position: absolute;
+    top: 3px;
+    left: 31px;
+    display: inline-block;
+    width: 120px;
+    height: 17px;
+}
+.vuesaxlinearnote-text-parent {
+    position: absolute;
+    height: 24.49%;
+    width: 94.38%;
+    top: 0%;
+    right: 5.63%;
+    bottom: 75.51%;
+    left: 0%;
+}
+.sujeito-a-reajuste-parent {
+    position: absolute;
+    top: 37px;
+    left: 0px;
+    width: 151px;
+    height: 24px;
+}
+.status-indisponvel {
+    position: absolute;
+    top: 2px;
+    left: 31px;
+    display: inline-block;
+    width: 129px;
+    height: 17px;
+}
+.vuesaxlineararchive-tick-icon {
+    position: absolute;
+    height: 100%;
+    width: 15%;
+    top: 0%;
+    right: 85%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.status-indisponvel-parent {
+    position: absolute;
+    top: 74px;
+    left: 0px;
+    width: 160px;
+    height: 24px;
+}
+.group-parent5 {
+    position: absolute;
+    height: 5.43%;
+    width: 20.28%;
+    top: 18.44%;
+    right: 3.8%;
+    bottom: 76.14%;
+    left: 75.92%;
+}
+.group-parent6 {
+    position: absolute;
+    height: 5.43%;
+    width: 20.28%;
+    top: 52.77%;
+    right: 3.8%;
+    bottom: 41.81%;
+    left: 75.92%;
+}
+.group-parent7 {
+    position: absolute;
+    height: 5.43%;
+    width: 20.28%;
+    top: 69.93%;
+    right: 3.8%;
+    bottom: 24.64%;
+    left: 75.92%;
+}
+.group-parent8 {
+    position: absolute;
+    height: 5.43%;
+    width: 20.28%;
+    top: 87.1%;
+    right: 3.8%;
+    bottom: 7.48%;
+    left: 75.92%;
+}
+.group-parent9 {
+    position: absolute;
+    height: 5.43%;
+    width: 20.28%;
+    top: 35.6%;
+    right: 3.8%;
+    bottom: 58.97%;
+    left: 75.92%;
+}
+.group-parent10 {
+    position: absolute;
+    height: 5.43%;
+    width: 20.28%;
+    top: 1.61%;
+    right: 3.8%;
+    bottom: 92.97%;
+    left: 75.92%;
+}
+.group-child12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #000;
+    width: 25px;
+    height: 25px;
+}
+.favorite-icon {
+    position: absolute;
+    top: 5px;
+    left: 4px;
+    width: 16.9px;
+    height: 15.8px;
+    object-fit: cover;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 25px;
+    height: 25px;
+}
+.group-wrapper1 {
+    position: absolute;
+    top: 23px;
+    left: 205px;
+    width: 25px;
+    height: 25px;
+}
+.group-wrapper4 {
+    position: absolute;
+    top: 325px;
+    left: 205px;
+    width: 25px;
+    height: 25px;
+}
+.group-wrapper7 {
+    position: absolute;
+    top: 635px;
+    left: 205px;
+    width: 25px;
+    height: 25px;
+}
+.group-wrapper10 {
+    position: absolute;
+    top: 948px;
+    left: 205px;
+    width: 25px;
+    height: 25px;
+}
+.group-wrapper13 {
+    position: absolute;
+    top: 1255px;
+    left: 205px;
+    width: 25px;
+    height: 25px;
+}
+.group-wrapper16 {
+    position: absolute;
+    top: 1565px;
+    left: 205px;
+    width: 25px;
+    height: 25px;
+}
+.group-parent {
+    position: absolute;
+    top: 311px;
+    left: 363px;
+    width: 789px;
+    height: 1806px;
+    font-size: 14px;
+    color: #000;
+}
+.group-child18 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 469px;
+    height: 46px;
+}
+.pesquisar {
+    position: absolute;
+    top: 14px;
+    left: 19.2px;
+    display: inline-block;
+    width: 74.8px;
+}
+.group-child19 {
+    position: absolute;
+    top: 0px;
+    left: 426px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #b5c9ff;
+    border-top: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-sizing: border-box;
+    width: 43px;
+    height: 46px;
+}
+.vector-icon1 {
+    position: absolute;
+    height: 6.52%;
+    width: 0.85%;
+    top: 52.17%;
+    right: 3.84%;
+    bottom: 41.3%;
+    left: 95.31%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon2 {
+    position: absolute;
+    height: 17.39%;
+    width: 1.71%;
+    top: 56.52%;
+    right: 2.35%;
+    bottom: 26.09%;
+    left: 95.95%;
+    border-radius: 50px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon3 {
+    position: absolute;
+    height: 30.43%;
+    width: 2.99%;
+    top: 28.26%;
+    right: 3.62%;
+    bottom: 41.3%;
+    left: 93.39%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon4 {
+    position: absolute;
+    height: 21.74%;
+    width: 2.13%;
+    top: 32.61%;
+    right: 4.05%;
+    bottom: 45.65%;
+    left: 93.82%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent10 {
+    position: absolute;
+    top: 150px;
+    left: 683px;
+    width: 469px;
+    height: 46px;
+}
+.profile-circle-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 83px;
+    height: 80px;
+}
+.group-wrapper19 {
+    position: absolute;
+    top: 23px;
+    left: 99px;
+    width: 83px;
+    height: 80px;
+}
+.group-child20 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    border-bottom: 1px solid #0500ff;
+    box-sizing: border-box;
+    width: 1512px;
+    height: 109px;
+}
+.captura-de-tela-2024-04-09-220 {
+    position: absolute;
+    top: 29px;
+    left: 132px;
+    width: 224px;
+    height: 50px;
+    object-fit: cover;
+}
+.ofertas {
+    position: absolute;
+    top: 45px;
+    left: 932px;
+    font-weight: 900;
+}
+.login {
+    position: absolute;
+    top: 44px;
+    left: 1326px;
+    font-weight: 900;
+    cursor: pointer;
+}
+.sobre {
+    position: absolute;
+    top: 45px;
+    left: 1075px;
+    font-weight: 900;
+    cursor: pointer;
+}
+.group-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1512px;
+    height: 109px;
+}
+.planos {
+    position: absolute;
+    top: 44px;
+    left: 1199px;
+    font-weight: 900;
+    color: #000;
+    display: inline-block;
+    width: 60px;
+    height: 19px;
+    cursor: pointer;
+}
+.group-parent11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1512px;
+    height: 109px;
+    color: #000e42;
+}
+.macbook-pro-14-3 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2358px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Inter;
+}
+
