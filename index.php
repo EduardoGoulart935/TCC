@@ -1,71 +1,58 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  	<meta charset="utf-8">
-  	<meta name="viewport" content="initial-scale=1, width=device-width">
-  	
-  	<link rel="stylesheet"  href="CSS/login.css" />
-  	
-  	
-  	
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1, width=device-width">
+
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
+
 <body>
-  	
-  	<div class="macbook-pro-14-1">
-		<form  id="login-form" class="form" action="autenticar.php" method="post">
-    		<div class="senha">Senha:</div>
-    		<div class="login">
-      			<p class="login1">Login</p>
-    		</div>
-    		<input type="text" class="macbook-pro-14-1-child" placeholder="Login" name="login">
-            <input type="text" class="macbook-pro-14-1-item" placeholder="Senha" name="senha">
-    		<div class="login2">Login:</div>
-    		
-                <button class="macbook-pro-14-1-inner" type="submit">Entrar</button>
 
-            
-    		<div class="rectangle-div">
-    		</div>
-    		<div class="ainda-no-tem">Ainda não tem uma conta? </div>
-    		<div>
-                <a href="cadastre.html" class="resgistre-se" id="resgistreSeText">Resgistre-se</a>
+	<div class="container h-100" >
+		<div id="login-row" class="row justify-content-center align-items-center h-100">
+			<div id="login-column" class="col-md-6 h-100">
+				<div id="login-box" class="col-md-12 h-100">
+					<form id="login-form" clas="form" action="autenticar.php" method="post" border="2">
+						<div class="form-group">
+							<label for="username" class="">Usuário:</label><br>
+							<input type="text" name="usuario" id="usuario" class="form-control" required>
+						</div>
+						<div class="form-group">
+							<label for="senha" class="">Senha:</label><br>
+							<input type="text" name="senha" id="senha" class="form-control" required>
+						</div>
+						<div class="form-group mt-4">
+							<input type="submit" name="submit" class="btn btn-light btn-md" value="Logar">
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
 
-            </div>
-    		<div class="line-div">
-    		</div>
-    		<div class="macbook-pro-14-1-child1">
-    		</div>
-    		<div class="ou">ou</div>
-    		<div class="termos-de-uso">Termos de Uso e Politca de Privacidade</div>
-    		<div class="macbook-pro-14-1-child2">
-    		</div>
-    		<div class="continuar-com-o">Continuar com o Google</div>
-    		<div class="macbook-pro-14-1-child3">
-    		</div>
-    		<div> <a href="#" class="esqueceu-a-senha">Esqueceu a senha?</a>
 
-            </div>
-    		<img class="icon" alt="" src="..svg">
-    	</form>
-  	</div>
-  	
-  	
 
-  	
-  	<script>
-    		let rectangle2 = document.getElementById("rectangle2");
-    		if(rectangle2) {
-      			rectangle2.addEventListener("click", function (e) {
-        				// Add your code here
-      			});
-    		}
-    		
-    		var resgistreSeText = document.getElementById("resgistreSeText");
-    		if(resgistreSeText) {
-      			resgistreSeText.addEventListener("click", function (e) {
-        				// Add your code here
-      			});
-    		}
-    </script>
+
+	<script>
+		let rectangle2 = document.getElementById("rectangle2");
+		if (rectangle2) {
+			rectangle2.addEventListener("click", function(e) {
+				// Add your code here
+			});
+		}
+
+		var resgistreSeText = document.getElementById("resgistreSeText");
+		if (resgistreSeText) {
+			resgistreSeText.addEventListener("click", function(e) {
+				// Add your code here
+			});
+		}
+	</script>
 </body>
-</html> 
+
+</html>
